@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Team members:
+1.Krishna Saka
+2.Lavanya Mengaraboina
+3.Keerthi Reddy Gangidi
+"""
 import tensorflow as tf
 import numpy as np
 import os,glob,cv2
