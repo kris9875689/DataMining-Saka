@@ -2,7 +2,11 @@
 """
 Created on Tue Oct 18 14:34:37 2017
 
-@author: Krishna Saka
+Team Members:
+1.Krishna Saka
+2.Lavanya Mengaraboina
+3.Keerthi Reddy Gangidi
+
 """
 import os
 import tensorflow as tf
