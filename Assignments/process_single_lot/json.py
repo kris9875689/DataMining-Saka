@@ -2,7 +2,10 @@
 """
 Created on Sun Oct  1 20:41:00 2017
 
-@author: keerthi
+Team members:
+1.Krishna Saka
+2.Lavanya Mengaraboina
+3.Keerthi Reddy Gangidi
 """
 
 from xmljson import parker, Parker
