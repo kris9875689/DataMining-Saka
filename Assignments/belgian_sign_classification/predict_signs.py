@@ -35,7 +35,7 @@ def load_data(data_directory):
             labels.append(int(d))
     return images, labels
 
-ROOT_PATH = "C:/Users/Lahari/Documents/data mining/"
+ROOT_PATH = "G:/2017/Fall2017/Data Mining/tensorflow/"
 train_data_directory = os.path.join(ROOT_PATH, "BelgiumTSC_Testing/Testing")
 test_data_directory = os.path.join(ROOT_PATH, "BelgiumTSC_Testing/Testing")
 
