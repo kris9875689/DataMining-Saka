@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Team members:
+1.Krishna Saka
+2.Lavanya Mengaraboina
+3.Keerthi Reddy Gangidi
+"""
+
 import cv2
 import os
 import glob
