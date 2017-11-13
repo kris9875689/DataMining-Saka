@@ -1,3 +1,3 @@
-### SimpleRegression
+# SimpleRegression
 
-# Individual Assignment
+### Individual Assignment
