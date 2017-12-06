@@ -2,6 +2,6 @@
 
 | #        | Name                 |
 |:--------:|:--------------------:|
-|   1      |    Krishna Saka      |
+|   5      |    Krishna Saka      |
 |   2      |   Keerthi Reddy Gangidi         |
-|   3      |    Lavanya Mengaraboina       |
+|   9      |    Lavanya Mengaraboina       |
